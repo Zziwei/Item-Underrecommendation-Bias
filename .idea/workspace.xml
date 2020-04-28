@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d0ee7c6-9abb-4043-9c3f-24e8c94967be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b8nu3JX6McbpNfJhEuDaaKkGfn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0ee7c6-9abb-4043-9c3f-24e8c94967be" name="Default Changelist" comment="" />
+      <created>1588022807469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588022807469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="199" key="SettingsEditor" timestamp="1588022826270">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/181.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588022826270" />
+    <state x="326" y="-1057" width="1386" height="1057" key="dock-window-1" timestamp="1588025384094">
+      <screen x="181" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="326" y="-1057" width="1386" height="1057" key="dock-window-1/181.-1057.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588025384094" />
+    <state x="326" y="-1080" width="1386" height="1080" key="dock-window-1/181.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588025075949" />
+    <state x="54" y="23" width="1294" height="1097" key="dock-window-2" timestamp="1588042334832">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="239" y="-1057" width="1386" height="1057" key="dock-window-2/181.-1057.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588041493356" />
+    <state x="54" y="23" width="1294" height="1097" key="dock-window-2/181.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588042334832" />
+  </component>
+</project>
